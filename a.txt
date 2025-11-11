@@ -1,3 +1,7 @@
 change file
 after 2 change
  change to push in Copyright (c) 2025 Author. All Rights Reserved.
+
+ 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
+
+ remote with ssh git 
