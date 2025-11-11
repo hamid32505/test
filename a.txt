@@ -2,18 +2,3 @@ change file
 after 2 change
  change to push in Copyright (c) 2025 Author. All Rights Reserved.
 
- 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
-
- remote with ssh git 
-
-
-
-
-
- -----BEGIN OPENSSH PRIVATE KEY-----
-b3BlbnNzaC1rZXktdjEAAAAABG5vbmUAAAAEbm9uZQAAAAAAAAABAAAAMwAAAAtzc2gtZW
-QyNTUxOQAAACCCOdgSz489Xr257h7RxzRdyHk+gHOr/GW85bTDvOon0AAAAJh7u3Vae7t1
-WgAAAAtzc2gtZWQyNTUxOQAAACCCOdgSz489Xr257h7RxzRdyHk+gHOr/GW85bTDvOon0A
-AAAEAf9h7Dfj+POyG9pus1IUdA5YHAs8hFhHupfPJTuOtHtoI52BLPjz1evbnuHtHHNF3I
-eT6Ac6v8ZbzltMO86ifQAAAAE2hhbWlkMzIwNUBnbWFpbC5jb20BAg==
------END OPENSSH PRIVATE KEY-----
