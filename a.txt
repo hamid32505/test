@@ -7,4 +7,6 @@ after 2 change
  test new line in branch hamid
 
 add developer branch :
+
 text chane to developer
+new line merge test
